@@ -1,0 +1,7 @@
+name: group_rule_1
+status: status
+expression_type: expression_type
+expression_value: expression_value
+group_assignments:
+    - group_assignment_1
+    - group_assignment_2
